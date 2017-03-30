@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="true"
+  ProjectName="TestGitHubExportAgain"
+  ProjectFolder="C:\Users\Foxes\Documents\My Projects\TestGitHubExportAgain\"
+  AutoSync="false"
+  SourceFolders="file:///C:/Users/Foxes/Documents/GitHub/test-flare-export"
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="content"
+  ImportLinkedHtmlFiles="true"
+  LastImport="2017-03-30T14:49:56.3696248-07:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../../GitHub/test-flare-export"
+      AbsoluteSource="file:///C:/Users/Foxes/Documents/GitHub/test-flare-export" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/test-flare-export/index.html"
+      TimeStamp="3/30/2017 2:49:50 PM" />
+    <Url
+      Source="../../Content/test-flare-export/content/first-page.html"
+      TimeStamp="3/30/2017 2:49:50 PM" />
+    <Url
+      Source="../../Content/test-flare-export/content/i-like-page.html"
+      TimeStamp="3/30/2017 2:49:50 PM" />
+    <Url
+      Source="../../Content/test-flare-export/content/index.html"
+      TimeStamp="3/30/2017 2:49:50 PM" />
+    <Url
+      Source="../../Content/test-flare-export/content/many-page.html"
+      TimeStamp="3/30/2017 2:49:50 PM" />
+    <Url
+      Source="../../Content/test-flare-export/content/next-page.html"
+      TimeStamp="3/30/2017 2:49:50 PM" />
+    <Url
+      Source="../../Content/test-flare-export/content/page-with-images.html"
+      TimeStamp="3/30/2017 2:49:50 PM" />
+    <Url
+      Source="../../Content/test-flare-export/partials/index.html"
+      TimeStamp="3/30/2017 2:49:50 PM" />
+    <Url
+      Source="../../Content/test-flare-export/partials/par-1.html"
+      TimeStamp="3/30/2017 2:49:50 PM" />
+    <Url
+      Source="../TOCs/test-flare-export.fltoc"
+      TimeStamp="3/30/2017 2:49:55 PM" />
+  </GeneratedFiles>
+</HtmlImport>

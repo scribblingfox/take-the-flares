@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="index" Link="/Content/test-flare-export/index.html" />
+    <TocEntry Title="first-page" Link="/Content/test-flare-export/content/first-page.html" />
+    <TocEntry Title="i-like-page" Link="/Content/test-flare-export/content/i-like-page.html" />
+    <TocEntry Title="index" Link="/Content/test-flare-export/content/index.html" />
+    <TocEntry Title="many-page" Link="/Content/test-flare-export/content/many-page.html" />
+    <TocEntry Title="next-page" Link="/Content/test-flare-export/content/next-page.html" />
+    <TocEntry Title="page-with-images" Link="/Content/test-flare-export/content/page-with-images.html" />
+    <TocEntry Title="index" Link="/Content/test-flare-export/partials/index.html" />
+    <TocEntry Title="par-1" Link="/Content/test-flare-export/partials/par-1.html" />
+</CatapultToc>
